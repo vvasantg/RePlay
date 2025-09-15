@@ -1,0 +1,55 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Others
+.env
+.env.*
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# Test results
+TestResults/
+
+# Publish
+publish/
+wwwroot/dist/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
